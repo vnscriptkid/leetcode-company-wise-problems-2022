@@ -1,15 +1,8 @@
-![leetcode-company-wise-problems-2022](https://socialify.git.ci/hxu296/leetcode-company-wise-problems-2022/image?font=Inter&forks=1&issues=1&language=1&owner=1&pulls=1&stargazers=1&theme=Light)
-## Leetcode Company-wise Problem Lists
-
-Curated lists of Leetcode questions group by companies, updated as of May, 2022.
-
-Shout out to fishercoder1534 for the awesome [Leetcode](https://github.com/fishercoder1534/Leetcode) repo for solutions.
-
 ## Company Index
-- Inprogress
+#### Inprogress
 14. [Apple](#apple)
 
-- Waiting-list
+#### Waiting-list
 154. [Uber](#uber)
 12. [Amazon](#amazon)
 57. [Facebook](#facebook)
